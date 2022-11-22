@@ -1,4 +1,6 @@
 "# collectiontask" 
+
+
 This task is used to mapping of the customer details and customer address ,in the given format,that screenshot in attached below
 ![Screenshot (3)](https://user-images.githubusercontent.com/116864585/203302305-17725a0d-3ee8-4577-b804-c0e7f4e819f8.png)
 The number of fragments in address details is defaultly given in the code as 6,but i'm entering only 3 here,so the indexOutOfBoundException is showing,the screenshot is attached below.
